@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Air Canada](https://www.aircanada.com/flifo/search?f=123&t=20240319&c=ac&l=en)
+- 🔭 I’m currently working on Netflix chat GPT
 
 - 🌱 I’m currently learning **Front End System Design**
 
